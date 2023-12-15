@@ -1,6 +1,6 @@
 #include "sort.h"
-/*
- *insertion_sort_list - this code shall arrange list using sort algorithim
+/**
+ * insertion_sort_list - this code shall arrange list using sort algorithim
  *@list: this shall represent the lst to be sorted
  *Return: it shall return nothing
  */
